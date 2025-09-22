@@ -8,7 +8,7 @@ CA125 is glycoprotein usually not produced by healthy colon cells. With Vd=5l, h
 
 <bdl-chartjs-time width="800" height="300" fromid="idfmi" labels="CA125, CA125 limit" initialdata="" refindex="0" refvalues="2" maxdata="8192"></bdl-chartjs-time>
 
-## tumor growth during 3 years, maximum growth between month 12-24 
+## tumor growth in 3 years (max in months 12-24) 
 
 &nbsp;&nbsp;<bdl-chartjs-time width="790" height="150" fromid="idfmi" labels="tumor size" initialdata="" refindex="2" refvalues="1" maxdata="8192"></bdl-chartjs-time>
 
