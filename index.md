@@ -1,4 +1,4 @@
-## CA 125 concentration profile furing 3 year 
+## CA 125 concentration profile during 3 year 
 
 CA125 is glycoprotein usually not produced by healthy colon cells. With Vd=5l, half-time=52d,clearance 2.2ml/h, healthy concentration under 35ng/l
 
